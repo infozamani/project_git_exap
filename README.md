@@ -33,4 +33,6 @@ git push     Update remote refs along with associated objects
 git pull     Fetch from and integrate with another repository or a local branchواکشی و ادغام با یک مخزن دیگر یا یک شعبه محلی
 git fetch     تغییرات را نشون میده ولی  به این جا انتقال نمیده ولی پول انتقال میده
 git diff تغییرات را نسبت به قبل نشون میده
-
+ npm init -yبرای اینکه پوشه ماژلها ایجاد کنیم که خط بعد مثلا نصب کردیم طرفی مه میخواد از این ماژلها استفاده مند کافی خط 38 را اجرا کند
+npm i express --save
+npm install 
