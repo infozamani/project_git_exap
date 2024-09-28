@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 body{
     color: red;
 }
 .header{
     background-color: rgb(137, 161, 161);
+=======
+.header{
+    background-color: aqua;
+>>>>>>> dev1
 }
